@@ -1,4 +1,6 @@
-![Header GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif" alt="Cozy Acoustic Ambiance">
+</p>
 
 <h1 align="center">Hey 👋, What's up?</h1>
 
