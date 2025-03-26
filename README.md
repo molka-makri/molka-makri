@@ -6,14 +6,19 @@
 
 ## 🚀 About Me
 
-- 💻 **Code Alchemist** | Turning coffee ☕ into algorithms ⚙️
-- 🌟 Always learning & experimenting with new tech
-- 🤝 Open to collaborations on exciting projects
-- 📫 Let's connect and create something awesome!
-
-<p align="right">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHk3MzBtMHU1OXhoMDRhd3BjYWEyNXYwMnF0ODZsdXZ2dWlmZHl4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6OrCT1jVbonHG/giphy.gif" alt="Cozy Acoustic Ambiance" >
-</p>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1;">
+    <ul>
+      <li>💻 <strong>Code Alchemist</strong> | Turning coffee ☕ into algorithms ⚙️</li>
+      <li>🌟 Always learning & experimenting with new tech</li>
+      <li>🤝 Open to collaborations on exciting projects</li>
+      <li>📫 Let's connect and create something awesome!</li>
+    </ul>
+  </div>
+  <div style="flex-shrink: 0; margin-left: 20px;">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHk3MzBtMHU1OXhoMDRhd3BjYWEyNXYwMnF0ODZsdXZ2dWlmZHl4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6OrCT1jVbonHG/giphy.gif" alt="Cozy Acoustic Ambiance" width="250" style="border-radius: 10px;">
+  </div>
+</div>
 
 ---
 
