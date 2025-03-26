@@ -12,7 +12,7 @@
 - 📫 Let's connect and create something awesome!
 
 <p align="right">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="Cozy Acoustic Ambiance" width="300">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFxbTF3eTFvZWhoajRrNWluYjdxeG1jOXc1OWsyaWUzZGducTRjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif" width="300">
 </p>
 
 ---
