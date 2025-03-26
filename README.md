@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif" alt="Cozy Acoustic Ambiance">
-</p>
-
 <h1 align="center">Hey 👋, What's up?</h1>
 
 <p align="center">I'm <strong>Molka</strong>, a passionate <strong>Computer Science Student</strong> from Tunisia 🌍</p>
@@ -14,6 +10,10 @@
 - 🌟 Always learning & experimenting with new tech
 - 🤝 Open to collaborations on exciting projects
 - 📫 Let's connect and create something awesome!
+
+<p align="right">
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="Cozy Acoustic Ambiance" width="300">
+</p>
 
 ---
 
