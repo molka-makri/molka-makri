@@ -47,10 +47,10 @@
   <a href="https://www.linkedin.com/in/molkamakri" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/yourgithub" target="_blank">
+  <a href="https://github.com/molka-makri" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="mailto:youremail@gmail.com" target="_blank">
+  <a href="mailto:makrimolka8@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" alt="Gmail"/>
   </a>
 </p>
