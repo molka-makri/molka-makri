@@ -10,7 +10,7 @@
   <tr>
     <td width="60%">
       <ul>
-        <li>💻 <strong>Code Alchemist</strong> | Turning coffee ☕ into algorithms ⚙️</li>
+        <li>💻 <strong>Code Alchemist</strong></li>
         <li>🌟 Always learning & experimenting with new tech</li>
         <li>🤝 Open to collaborations on exciting projects</li>
         <li>📫 Let's connect and create something awesome!</li>
