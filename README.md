@@ -1,75 +1,67 @@
-<h1 align="center">Hey 👋, What's up?</h1>
+<h1 align="center">🌸 Hello, I'm Molka</h1>
 
-<p align="center">I'm <strong>Molka</strong>, a passionate <strong>Computer Science Student</strong> from Tunisia 🌍</p>
-
----
-
-## 🚀 About Me
-
-<table>
-  <tr>
-    <td width="60%">
-      <ul>
-        <li>💻 <strong>Code Alchemist</strong></li>
-        <li>🌟 Always learning & experimenting with new tech</li>
-        <li>🤝 Open to collaborations on exciting projects</li>
-        <li>📫 Let's connect and create something awesome!</li>
-      </ul>
-    </td>
-    <td width="40%">
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHk3MzBtMHU1OXhoMDRhd3BjYWEyNXYwMnF0ODZsdXZ2dWlmZHl4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6OrCT1jVbonHG/giphy.gif" alt="Cozy Acoustic Ambiance" width="100%" style="border-radius: 10px;">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <strong>Computer Science Student</strong> from Tunisia 🇹🇳<br/>
+  Curious mind, creative coder, and calm soul 🌿
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## ✨ About Me
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=molka-makri&show_icons=true&theme=tokyonight&hide=prs,issues&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=molka-makri&theme=tokyonight" alt="GitHub Streak" width="48%" />
+- 💡 I love exploring new technologies and creative coding.
+- 🤝 I'm open to collaboration on meaningful and impactful projects.
+- 🧘‍♀️ I believe in clean code, clean design, and a clear mind.
+- 📫 Reach out: makrimolka8@gmail.com
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=molka-makri&show_icons=true&theme=calm&count_private=true&hide_border=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=molka-makri&theme=calm&hide_border=true" width="45%" />
 </div>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=molka-makri&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=molka-makri&layout=compact&theme=calm&hide_border=true" width="50%" />
 </p>
 
 ---
 
-## 🛠️ I Code With
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="50" alt="Oracle" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
 </p>
 
 ---
 
-## 🌟 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/molkamakri" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-lightblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/molka-makri" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="mailto:makrimolka8@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-pink?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
 ---
 
-> "The only way to do great work is to love what you do." – Steve Jobs 🚀
+<p align="center"><em>"Do it with passion, or not at all." 🌷</em></p>
