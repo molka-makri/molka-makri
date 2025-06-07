@@ -6,8 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=998FC7&height=180&section=header&text=Crafting%20calm%20through%20code&fontColor=ffffff&fontSize=30&fontAlignY=35" alt="Zen Banner" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=998FC7&height=180&section=header&text=Let%20code%20flow%20like%20water&fontColor=ffffff&fontSize=30&fontAlignY=35&font=Comfortaa" alt="Zen Banner" />
 </p>
 
 ---
