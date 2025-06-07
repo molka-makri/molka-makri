@@ -13,7 +13,6 @@
   <tr>
     <td width="60%">
       <ul>
-        <li>💻 <strong>Computer Science Student</strong> from Tunisia 🇹🇳</li>
         <li>🔭 Currently exploring <strong>AI, embedded systems</strong> & <strong>web development</strong></li>
         <li>🌱 Always learning and experimenting new tech</li>
         <li>🤝 Let’s build something meaningful together!</li>
