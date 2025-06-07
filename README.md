@@ -21,20 +21,23 @@
     </td>
   </tr>
 </table>
+
 ---
+
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=molka-makri&show_icons=true&theme=tokyonight&hide=prs,issues&count_private=true" alt="makri molka GitHub Stats" />
-</p>
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=molka-makri&show_icons=true&theme=tokyonight&hide=prs,issues&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=molka-makri&theme=tokyonight" alt="GitHub Streak" width="48%" />
+</div>
+
+<br/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=molka-makri&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=molka-makri&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=molka-makri&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
+---
 
 ## 🛠️ I Code With
 
