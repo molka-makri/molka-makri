@@ -5,6 +5,10 @@
   Curious mind, creative coder, and calm soul 🌿
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=998FC7&height=160&section=header&text=Peaceful%20mind,%20powerful%20code&fontColor=ffffff&fontSize=30&fontAlignY=35" alt="Zen Banner" />
+</p>
+
 ---
 
 ## 🪷 About Me
@@ -24,11 +28,6 @@
   </tr>
 </table>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=998FC7&height=150&section=header&text=Code%20with%20Calm&fontColor=ffffff&fontSize=38&fontAlignY=35" alt="Zen Banner" />
-</p>
 ---
 
 ## 📊 GitHub Stats
@@ -83,15 +82,14 @@
 
 ---
 
-## ✨ Minimalist Badges (Optional Add-on)
+## ✨ Minimalist Badges
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Blog-Read%20Now-6e6b7b?style=flat-square&logo=hashnode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wakatime-Stats-3c1e68?style=flat-square&logo=wakatime&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dev.to-Articles-black?style=flat-square&logo=dev.to&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blog-Coming%20Soon-6e6b7b?style=flat-square&logo=hashnode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wakatime-Loading...-3c1e68?style=flat-square&logo=wakatime&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dev.to-Soon-black?style=flat-square&logo=dev.to&logoColor=white" />
 </p>
 
 ---
 
 > 🧘‍♀️ *“The quieter you become, the more you can hear.” – Ram Dass*
-
