@@ -33,13 +33,14 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=molka-makri&show_icons=true&theme=tokyonight&hide=prs,issues&count_private=true" alt="GitHub Stats" />
     </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=molka-makri&theme=tokyonight" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
     <td colspan="2" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=molka-makri&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </td>
+    
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=molka-makri&theme=tokyonight" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
