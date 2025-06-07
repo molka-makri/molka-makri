@@ -21,6 +21,22 @@
     </td>
   </tr>
 </table>
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=molka-makri&show_icons=true&theme=radical&hide=prs,issues&count_private=true" alt="molka-makri GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=molka-makri&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=molka-makri&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
 
 ---
 
