@@ -20,6 +20,7 @@
       <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHk3MzBtMHU1OXhoMDRhd3BjYWEyNXYwMnF0ODZsdXZ2dWlmZHl4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6OrCT1jVbonHG/giphy.gif" alt="Cozy Acoustic Ambiance" width="100%" style="border-radius: 10px;">
     </td>
   </tr>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=molka-makri)](https://github.com/anuraghazra/github-readme-stats)
 </table>
 ---
 
