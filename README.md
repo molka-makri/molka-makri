@@ -23,7 +23,17 @@
 </table>
 ---
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=makri molka&show_icons=true&theme=radical&hide=prs,issues&count_private=true" alt="makri molka GitHub Stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=makri molka&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makri molka&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
 
 ## 🛠️ I Code With
