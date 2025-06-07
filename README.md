@@ -27,7 +27,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=998FC7&height=150&section=header&fontColor=ffffff&fontSize=45&fontAlignY=35" alt="Zen Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=998FC7&height=150&section=header&text=Code%20with%20Calm&fontColor=ffffff&fontSize=38&fontAlignY=35" alt="Zen Banner" />
 </p>
 
 ---
