@@ -1,7 +1,8 @@
 <h1 align="center">Hey there 🌸, I'm Molka!</h1>
 
 <p align="center">
-  <em>Passionate about tech, nature & creativity — always coding, always dreaming 🌿</em>
+  <strong>Computer Science Student</strong> from Tunisia 🇹🇳<br/>
+  Curious mind, creative coder, and calm soul 🌿
 </p>
 
 ---
