@@ -18,6 +18,7 @@
         <li>🤝 Let’s build something meaningful together!</li>
       </ul>
     </td>
+    <tr>
     <td width="40%">
       <img src="https://media.giphy.com/media/6OrCT1jVbonHG/giphy.gif" alt="Code Zen" width="100%" style="border-radius: 12px;" />
     </td>
