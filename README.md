@@ -6,7 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=998FC7&height=160&section=header&text=Peaceful%20mind,%20powerful%20code&fontColor=ffffff&fontSize=30&fontAlignY=35" alt="Zen Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=998FC7&height=180&section=header&text=Crafting%20calm%20through%20code&fontColor=ffffff&fontSize=30&fontAlignY=35" alt="Zen Banner" />
+
 </p>
 
 ---
@@ -82,7 +83,7 @@
 
 ---
 
-## ✨ Minimalist Badges
+## ✨ Badges
 
 <p align="center">
   <img src="https://img.shields.io/badge/Blog-Coming%20Soon-6e6b7b?style=flat-square&logo=hashnode&logoColor=white" />
@@ -92,4 +93,3 @@
 
 ---
 
-> 🧘‍♀️ *“The quieter you become, the more you can hear.” – Ram Dass*
