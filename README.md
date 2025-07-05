@@ -26,6 +26,13 @@
 
 ---
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=molka-makri&theme=onedark&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <table>
