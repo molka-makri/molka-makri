@@ -7,7 +7,7 @@
 
 ---
 
-##📊 About Me
+## About Me
 
 <table>
   <tr>
@@ -15,7 +15,7 @@
       <ul>
         <li>🔭 Currently exploring <strong>AI, embedded systems</strong> & <strong>web development</strong></li>
         <li>🌱 Always learning and experimenting new tech</li>
-        <li>🤝 Let’s build something meaningful together!</li>
+        <li>🤝 Let's build something meaningful together!</li>
       </ul>
     </td>
     <td width="40%">
@@ -33,7 +33,7 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=molka-makri&show_icons=true&theme=tokyonight&hide=prs,issues&count_private=true" alt="GitHub Stats" />
     </td>
-    <td >
+    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=molka-makri&layout=compact&theme=tokyonight" alt="Top Languages" />
     </td>
   </tr>
@@ -46,23 +46,19 @@
 
 ---
 
-
 ## 🛠️ Technologies I Code With
 
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" style="margin: 10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" style="margin: 10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" style="margin: 10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" style="margin: 10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" style="margin: 10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" style="margin: 10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" style="margin: 10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" style="margin: 10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" style="margin: 10px;" />
-
-</div>
-
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin: 0 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin: 0 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin: 0 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40" style="margin: 0 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="margin: 0 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="margin: 0 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="margin: 0 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="margin: 0 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40" style="margin: 0 5px;"/>
+</p>
 
 ---
 
@@ -87,6 +83,3 @@
   <img src="https://img.shields.io/badge/Wakatime-Loading...-3c1e68?style=flat-square&logo=wakatime&logoColor=white" />
   <img src="https://img.shields.io/badge/Dev.to-Soon-black?style=flat-square&logo=dev.to&logoColor=white" />
 </p>
-
----
-
