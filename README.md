@@ -65,7 +65,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="margin: 0 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="margin: 0 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40" style="margin: 0 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/notion.svg" alt="Notion" width="40" height="40" style="margin: 0 5px;"/>
+  
 </p>
 
 ---
