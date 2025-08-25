@@ -86,8 +86,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Blog-Coming%20Soon-6e6b7b?style=flat-square&logo=hashnode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wakatime-Loading...-3c1e68?style=flat-square&logo=wakatime&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dev.to-Soon-black?style=flat-square&logo=dev.to&logoColor=white" />
-</p>
+
