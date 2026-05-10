@@ -49,9 +49,9 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
 
-**Languages**<br/>
+<strong>Languages</strong><br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -59,44 +59,37 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-<br/><br/>**AI & Data**<br/>
+<br/><br/><strong>AI & Data</strong><br/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ultralytics_YOLO-00FFFF?style=for-the-badge&logoColor=black"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
-<br/><br/>**Web & Backend**<br/>
+<br/><br/><strong>Web & Backend</strong><br/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
-<br/><br/>**Tools**<br/>
+<br/><br/><strong>Tools</strong><br/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
-</p>
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=molka-makri&show_icons=true&theme=tokyonight&hide=prs,issues&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=molka-makri&layout=compact&theme=tokyonight" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=molka-makri&theme=tokyonight" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=molka-makri&show_icons=true&theme=tokyonight&hide=prs,issues&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=molka-makri&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" height="160"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=molka-makri&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -107,9 +100,5 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=molka-makri&color=7B61FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
 
 <p align="center"><em>"The best way to predict the future is to build it." 🚀</em></p>
